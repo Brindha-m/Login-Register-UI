@@ -61,7 +61,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"/>
                 <TextView
-                    android:id="@+id/singUp"
+                    android:id="@+id/signUp"
                     android:text="@string/sign_up"
                     android:paddingTop="5dp"
                     android:textAlignment="center"
